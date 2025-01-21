@@ -3,7 +3,7 @@
 
 > Course link:-  [Click here]([https://duckduckgo.com](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?couponCode=IND21PM))
 
-![Website Screenshot!](/images/omnifoodpicture.png "San Juan Mountains")
+![Website Screenshot!](omnifoodpicture.png "San Juan Mountains")
 
 
 ## Learnings 
