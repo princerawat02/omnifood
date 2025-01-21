@@ -7,7 +7,7 @@
 ![Website Screenshot!](omnifoodpicture.png "San Juan Mountains")
 
 
-
+<br>
 
 
 ## Learnings 
