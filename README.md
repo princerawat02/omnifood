@@ -1,7 +1,8 @@
 # Omnifood Project
 ## Thought by Instructer on Udemy **Jonas Schmedtmann**
 
-### Course link:-  [Click here]([https://duckduckgo.com](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?couponCode=IND21PM))
+### Here is course on Udemy [Click here](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3).
+
 
 ![Website Screenshot!](omnifoodpicture.png "San Juan Mountains")
 
