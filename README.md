@@ -1,13 +1,13 @@
 # Omnifood Project
 ## Thought by Instructer on Udemy **Jonas Schmedtmann**
 
-> Course link:-  [Click here]([https://duckduckgo.com](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?couponCode=IND21PM))
+### Course link:-  [Click here]([https://duckduckgo.com](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?couponCode=IND21PM))
 
 ![Website Screenshot!](omnifoodpicture.png "San Juan Mountains")
 
 
 ## Learnings 
-- The fundamentals of modern and semantic HTML, CSS, and building layouts in a small separate project, which will prepare you for the main course project (www.omnifood.dev). This includes modern flexbox and CSS Grid!
+- The fundamentals of modern and semantic HTML, CSS, and building layouts in a small separate project.
 
 - How to design beautiful websites, by learning a web design framework I created just for this course. It consists of easy-to-use guidelines for design aspects like typography, colors, images, spacing, and more (this is like a small standalone course!).
 
